@@ -10,7 +10,7 @@ I'm **Vishal**, currently pursuing a Bachelor's degree in Computer Science and E
 
 ## About Me
 
-I'm a tech enthusiast who thrives on new challenges and continuous learning. My passion for technology drives me to constantly push the boundaries of my comfort zone and acquire new skills.
+I'm a tech enthusiast who Love to take a new challenges and Learn new skill in life. I'm passionate about technology drives me to constantly push the boundaries of my comfort zone and acquire new skills.
 
 ## My Interests
 
