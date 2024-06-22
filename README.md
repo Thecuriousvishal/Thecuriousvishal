@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thecuriousvishal&style=flat-square)
 
-I'm **Vishal**, currently pursuing a Bachelor's degree in Computer Science and Engineering at RRSDCE Begusarai [Govt. Engineering College].
+Currently pursuing a Bachelor's degree in Computer Science and Engineering at RRSDCE Begusarai,Bihar [Govt. Engineering College].
 
 ## About Me
 
