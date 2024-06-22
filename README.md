@@ -1,6 +1,6 @@
-![github-header-image](https://github.com/Thecuriousvishal/Thecuriousvishal/assets/154529583/7b2e03b9-846b-4cd1-b192-0403d7d874a2)
 
-<h1 align="center">Hey there, I'm Vishal ! 👋</h1>
+
+<h1 align="center">Hey there Welcome to My Profile, I'm Vishal ! 👋</h1>
 
 <h2 align="center">Aspiring Computer Scientist and Web Developer👨‍💻</h2>
 
