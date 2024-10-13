@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there Welcome to My Profile, I'm Vishal ! 👋</h1>
 
-<h2 align="center">Aspiring Computer Scientist and Web Developer👨‍💻</h2>
+<h2 align="center">Aspiring AIML Engineer👨‍💻</h2>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thecuriousvishal&style=flat-square)
 
