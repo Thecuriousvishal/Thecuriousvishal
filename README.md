@@ -51,7 +51,7 @@ Feel free to reach out and connect with me on [LinkedIn](https://www.linkedin.co
 
 ### 🔗 My Projects
 
-- [Project 1](https://github.com/thecuriousvishal/project1)
+- [Project 1](https://huggingface.co/spaces/curiousvishal/NeuroAI)
 - [Project 2](https://github.com/thecuriousvishal/project2)
 
 Feel free to explore and contribute!
