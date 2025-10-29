@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hey there Welcome to My Profile, I'm Vishal ! 👋</h1>
+<h1 align="center">Heyy I'm Vishal ! 👋</h1>
 
 <h2 align="center">Aspiring AI/ML Engineer👨‍💻</h2>
 
